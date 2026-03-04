@@ -33,6 +33,7 @@ status-website:
   cname: status.relevantleads.io
   name: Relevant — Estado del Servicio
   logoUrl: https://www.relevantleads.io/favicon.png
+  favicon: https://www.relevantleads.io/favicon.png
   theme: light
   introTitle: "**Relevant** está operando con normalidad"
   introMessage: "Esta página muestra el estado en tiempo real de los servicios de Relevant CRM. Se actualiza automáticamente cada 5 minutos."
@@ -43,14 +44,29 @@ status-website:
       href: https://www.relevantleads.io
   css: |
     :root {
-      --primary-color: #00C853;
+      --primary-color: #003820;
     }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      background: #FAFAFA;
+      background: #FFFFFF;
     }
-    .status-up {
-      color: #00C853;
+    nav {
+      background: #003820 !important;
+    }
+    nav a {
+      color: #FFFFFF !important;
+    }
+    h1 strong {
+      color: #003820;
+    }
+    .site-status-up {
+      color: #16A34A;
+    }
+    a {
+      color: #003820;
+    }
+    footer {
+      opacity: 0.5;
     }
 
 workflowSchedule:
