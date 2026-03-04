@@ -41,6 +41,17 @@ status-website:
       href: /
     - title: Relevant
       href: https://www.relevantleads.io
+  css: |
+    :root {
+      --primary-color: #00C853;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #FAFAFA;
+    }
+    .status-up {
+      color: #00C853;
+    }
 
 workflowSchedule:
   uptime: "*/5 * * * *"
