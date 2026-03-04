@@ -23,11 +23,11 @@ sites:
   - name: Captación de Leads
     url: https://app.relevantleads.io/api/health/capture
 
-  - name: Centro de Ayuda
-    url: https://support.relevantleads.io
-
   - name: Sitio Web
     url: https://www.relevantleads.io
+
+  - name: Centro de Ayuda
+    url: https://support.relevantleads.io
 
 status-website:
   cname: status.relevantleads.io
@@ -36,7 +36,7 @@ status-website:
   favicon: https://www.relevantleads.io/favicon.png
   theme: light
   introTitle: "**Relevant** está operando con normalidad"
-  introMessage: "Esta página muestra el estado en tiempo real de los servicios de Relevant CRM. Se actualiza automáticamente cada 5 minutos."
+  introMessage: "Esta página muestra el estado en tiempo real de los servicios de Relevant Leads. Se actualiza automáticamente cada 5 minutos."
   navbar:
     - title: Estado
       href: /
