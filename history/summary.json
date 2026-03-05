@@ -76,19 +76,19 @@
     "url": "https://app.relevantleads.io/api/health/invoicing",
     "icon": "https://icons.duckduckgo.com/ip3/app.relevantleads.io.ico",
     "slug": "facturacion-cfdi",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 398,
-    "timeDay": 429,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "95.91%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
+    "time": 404,
+    "timeDay": 427,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2026-03-05": 0
+      "2026-03-05": 67
     }
   },
   {
