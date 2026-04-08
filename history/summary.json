@@ -40,18 +40,20 @@
     "url": "https://app.relevantleads.io/api/health/whatsapp",
     "icon": "https://icons.duckduckgo.com/ip3/app.relevantleads.io.ico",
     "slug": "whats-app-mensajeria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 177,
-    "timeWeek": 151,
-    "timeMonth": 184,
-    "timeYear": 182,
-    "dailyMinutesDown": {}
+    "time": 201,
+    "timeDay": 548,
+    "timeWeek": 247,
+    "timeMonth": 207,
+    "timeYear": 201,
+    "dailyMinutesDown": {
+      "2026-04-08": 0
+    }
   },
   {
     "name": "Suscripciones y Pagos",
