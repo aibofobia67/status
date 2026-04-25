@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1052,
-    "timeWeek": 783,
-    "timeMonth": 1105,
-    "timeYear": 1053,
+    "time": 1045,
+    "timeDay": 610,
+    "timeWeek": 777,
+    "timeMonth": 1086,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 4565,
-    "timeWeek": 1253,
-    "timeMonth": 773,
-    "timeYear": 712,
+    "time": 711,
+    "timeDay": 661,
+    "timeWeek": 1265,
+    "timeMonth": 779,
+    "timeYear": 711,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.relevantleads.io.ico",
     "slug": "whats-app-mensajeria",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.85%",
-    "time": 248,
-    "timeDay": 172,
-    "timeWeek": 167,
-    "timeMonth": 284,
-    "timeYear": 248,
+    "uptimeYear": "99.86%",
+    "time": 247,
+    "timeDay": 177,
+    "timeWeek": 166,
+    "timeMonth": 285,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2026-04-08": 108
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 232,
-    "timeWeek": 226,
+    "time": 238,
+    "timeDay": 194,
+    "timeWeek": 211,
     "timeMonth": 228,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 421,
-    "timeDay": 372,
+    "timeDay": 431,
     "timeWeek": 440,
-    "timeMonth": 419,
+    "timeMonth": 420,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2026-03-05": 67
@@ -105,9 +105,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.84%",
     "time": 194,
-    "timeDay": 188,
-    "timeWeek": 184,
-    "timeMonth": 207,
+    "timeDay": 180,
+    "timeWeek": 183,
+    "timeMonth": 204,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2026-04-10": 118
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 472,
-    "timeWeek": 292,
+    "time": 361,
+    "timeDay": 299,
+    "timeWeek": 300,
     "timeMonth": 364,
-    "timeYear": 362,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 189,
-    "timeWeek": 207,
-    "timeMonth": 278,
-    "timeYear": 281,
+    "time": 278,
+    "timeDay": 138,
+    "timeWeek": 214,
+    "timeMonth": 275,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 388,
-    "timeWeek": 345,
+    "time": 373,
+    "timeDay": 331,
+    "timeWeek": 350,
     "timeMonth": 360,
-    "timeYear": 374,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   }
 ]
